@@ -1,0 +1,15 @@
+{
+    "C Program Template": {
+        "prefix": "c",
+        "body": [
+            "#include <stdio.h>",
+            "",
+            "int main() ",
+            "    {",
+            "    ",
+            "    return 0;",
+            "}"
+        ],
+        "description": "C Program Template"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "C Program Template": {
+        "prefix": "cc",
+        "body": [
+            "#include <iostream>",
+            "using namespace std",
+            "",
+            "int main() ",
+            "    {",
+            "    ",
+            "    return 0;",
+            "}"
+        ],
+        "description": "C++ Program Template"
+    }
+}
